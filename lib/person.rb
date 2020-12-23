@@ -9,6 +9,13 @@ end
 
 
 
+romano_attributes = (name: "Romano", height: "5'10", eye_color: "brown")
+
+romano = Person.new(romano_attributes)
+
+puts romano.name
+puts romano.height
+puts romano.eye_color
 
 
 
