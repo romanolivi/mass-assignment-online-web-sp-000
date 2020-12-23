@@ -9,7 +9,7 @@ end
 
 
 
-romano_attributes = (name: "Romano", height: "5'10", eye_color: "brown")
+romano_attributes = {name: "Romano", height: "5'10", eye_color: "brown"}
 
 romano = Person.new(romano_attributes)
 
