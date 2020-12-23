@@ -15,7 +15,7 @@ romano = Person.new(romano_attributes)
 
 puts romano.name
 puts romano.height
-puts romano.eye_color
+
 
 
 
